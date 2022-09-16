@@ -4,3 +4,5 @@ make websit
 write code to analyse seconds data
 analyse Vz in sPIV data
 take pictures of Lab and setup
+look on how HX-711 works
+write code for ADC converter
